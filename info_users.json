@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "user_name": "PWNZMASTER",
+    "first_name": "Alex",
+    "last_name": "Ivanovich",
+    "rang": 1500,
+    "ban": true,
+    "ban_text": "Cheat",
+    "ban_time": 60
+  },
+  {
+    "id": 2,
+    "user_name": "sweet_supp",
+    "first_name": "Anna",
+    "last_name": "",
+    "rang": 192,
+    "ban": false,
+    "ban_text": "",
+    "ban_time": ""
+  }
+]
+
